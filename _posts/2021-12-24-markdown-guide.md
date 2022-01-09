@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Markdown Guide
-subtitle: Resources to work with Markdown
+title: Data Engineering for Everyone
+subtitle: Data Engineering for Everyone
 categories: markdown
-tags: [guide, markdown]
+tags: [Data Engineering, Intro, Basics]
 ---
 
-## Resources
+## Data Engineering for Everyone
 
 This is a [good guide](https://www.markdownguide.org/basic-syntax/) to learn about the basic markdown syntax.
